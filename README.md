@@ -1,6 +1,9 @@
-# test-repo
-This is a test repository
+# Introduction
 
+This is a repository created by *Tensae*
 
+## Usage
 
-*TODO* Add content
+Run this command to execute the application:
+
+`python filename.py`
